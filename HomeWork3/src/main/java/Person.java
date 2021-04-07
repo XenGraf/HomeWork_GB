@@ -29,7 +29,6 @@ public class Person {
         System.out.println("ФИО пользователя: " + name+ "; Должность: " + position + "; email: " + email + "; Телефон: " + tel + "; Зарплата: " + salary + "; Возраст: " + age);
     }
 
-
     public static void main(String[] args) {
         Person[] persArray = new Person[5];
         persArray[0] = new Person("Ivanov Ivan", "Assistant", "ivivan@mailbox.com", "892312312", 30000, 30);
