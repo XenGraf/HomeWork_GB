@@ -19,6 +19,7 @@ public class GameXO {
         }
     }
 
+
     private static void printMap() {
         for (int i = 0; i < SIZE; i++) {
             System.out.print("|");
