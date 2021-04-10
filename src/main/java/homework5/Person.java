@@ -1,6 +1,5 @@
 package homework5;
 
-
 public class Person {
 
     private final String name;
