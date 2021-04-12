@@ -1,5 +1,6 @@
 package homework6;
 
+
 public class Cat extends Animal {
     String name;
     static int catCounter;
