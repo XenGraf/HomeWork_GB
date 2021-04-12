@@ -1,5 +1,6 @@
 package homework6;
 
+
 public abstract class Animal {
     String name;
     static int animalCounter;
