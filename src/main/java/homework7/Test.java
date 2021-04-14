@@ -24,12 +24,14 @@ public class Test {
             }
         }
         plate.info();
+
         plate.increaseFood(20);
         plate.info();
         cats[4].eat(plate);
         if (cats[4].isFullness()) {
             System.out.println(cats[4].getName()+ " is full");
-        } else {System.out.println(cats[4].getName()+ " is hungry");
+        } else {
+            System.out.println(cats[4].getName()+ " is hungry");
         }
 
     }
