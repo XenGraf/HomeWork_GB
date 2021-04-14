@@ -33,7 +33,6 @@ public class Test {
         } else {
             System.out.println(cats[4].getName()+ " is hungry");
         }
-
     }
 
 }
