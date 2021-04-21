@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7e3819e-2663-43aa-9175-94d2b4c8aeca" name="Default Changelist" comment="GameXO">
+      <change afterPath="$PROJECT_DIR$/HomeWork3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork3/src/main/java/GameXO.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork3/src/main/java/GameXO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork3/src/main/java/Person.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="HomeWork4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="HomeWork_GB" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="XenGraf" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="HomeWork_GB" />
+  </component>
+  <component name="ProjectId" id="1qe7wm0JKh727TQJbU81mRjTVqn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Person">
+    <configuration name="GameXO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameXO" />
+      <module name="HomeWork3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork3" />
+      <module name="HomeWork3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person" />
+      <module name="HomeWork3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="HomeWork3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.GameXO" />
+        <item itemvalue="Application.HomeWork3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e3819e-2663-43aa-9175-94d2b4c8aeca" name="Default Changelist" comment="" />
+      <created>1617428442906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617428442906</updated>
+    </task>
+    <task id="LOCAL-00001" summary="GameXO">
+      <created>1617795555006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617795555006</updated>
+    </task>
+    <task id="LOCAL-00002" summary="GameXO">
+      <created>1617795628739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617795628739</updated>
+    </task>
+    <task id="LOCAL-00003" summary="GameXO">
+      <created>1617796004904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617796004904</updated>
+    </task>
+    <task id="LOCAL-00004" summary="GameXO">
+      <created>1617796267318</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617796267318</updated>
+    </task>
+    <task id="LOCAL-00005" summary="GameXO">
+      <created>1617796639794</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617796639794</updated>
+    </task>
+    <task id="LOCAL-00006" summary="GameXO">
+      <created>1617796756150</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617796756150</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HomeWork5">
+      <created>1617801487574</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617801487574</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HomeWork5">
+      <created>1617801548759</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617801548759</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HomeWork5">
+      <created>1617801645473</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617801645473</updated>
+    </task>
+    <task id="LOCAL-00010" summary="HomeWork5">
+      <created>1617801673543</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617801673543</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GameXO" />
+    <MESSAGE value="HomeWork5" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork5" />
+  </component>
+</project>
