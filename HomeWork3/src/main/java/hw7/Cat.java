@@ -8,7 +8,6 @@ public class Cat {
 
     private int appetite;
 
-
     private boolean fullness;
 
 
