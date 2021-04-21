@@ -1,6 +1,7 @@
-package homework7;
+package hw7;
 
 public class Plate {
+
     private int food;
 
     public Plate(int food) {
@@ -23,5 +24,5 @@ public class Plate {
         return food;
     }
 
-}
 
+}

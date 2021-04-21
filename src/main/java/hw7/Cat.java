@@ -1,6 +1,7 @@
-package homework7;
+package hw7;
 
 public class Cat {
+
     private String name;
     private int appetite;
     private boolean fullness;
@@ -30,5 +31,5 @@ public class Cat {
         return name;
     }
 
-}
 
+}
