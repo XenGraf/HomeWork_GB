@@ -5,7 +5,6 @@ public class Cat {
 
     private String name;
 
-
     private int appetite;
 
     private boolean fullness;
