@@ -3,7 +3,6 @@ package homework8;
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
 import java.awt.HeadlessException;
-import java.util.concurrent.TimeUnit;
 import javax.swing.*;
 import java.awt.event.*;
 
