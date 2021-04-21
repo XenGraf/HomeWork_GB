@@ -1,6 +1,7 @@
-package homework7;
+package hw7;
 
-public class Test {
+public class FeedTest {
+
 
     public static void main(String[] args) {
 
@@ -19,7 +20,7 @@ public class Test {
 
         for (Cat cat: cats) {
             if (cat.isFullness()) {
-            System.out.println(cat.getName()+ " is full");
+                System.out.println(cat.getName()+ " is full");
             } else {System.out.println(cat.getName()+ " is hungry");
             }
         }
@@ -34,5 +35,6 @@ public class Test {
             System.out.println(cats[4].getName()+ " is hungry");
         }
     }
+
 
 }
