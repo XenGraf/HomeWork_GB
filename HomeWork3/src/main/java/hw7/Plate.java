@@ -60,7 +60,6 @@ public class Plate {
 
     public int getFood() {
 
-
         return food;
 
 

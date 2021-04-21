@@ -12,8 +12,6 @@ public class Cat {
 
 
 
-
-
     public Cat(String name, int appetite) {
 
 
